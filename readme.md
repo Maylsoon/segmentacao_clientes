@@ -53,7 +53,7 @@ Clientes mais jovens tendem a ter maior spending score
 
 Renda e score não possuem forte correlação linear, porém existem padrões visuais claros de segmentação entre essas variáveis
 
-![relação_renda_score] (imagens/score_por_renda.png)
+![relação_renda_score](imagens/score_por_renda.png)
 
 _______________________________________________________________________________
 
