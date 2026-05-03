@@ -53,7 +53,7 @@ Clientes mais jovens tendem a ter maior spending score
 
 Renda e score não possuem forte correlação linear, porém existem padrões visuais claros de segmentação entre essas variáveis
 
-![relação_renda_score]('imagens/score_por_renda.png')
+![relação_renda_score] (imagens/score_por_renda.png)
 
 _______________________________________________________________________________
 
@@ -67,13 +67,13 @@ Número de clusters definido como K = 5
 
 Validação com Silhouette Score ≈ 0.55
 
-![metodo_cotovelo]('imagens/elbow_method.png')
+![metodo_cotovelo](imagens/elbow_method.png)
 
 __________________________________________________________________________________
 
 📈 Resultado da Segmentação
 
-![centroids]('imagens/centroids.png')
+![centroids](imagens/centroids.png)
 
 Foram identificados 5 grupos distintos de clientes.
 
@@ -98,7 +98,7 @@ Promoções para clientes impulsivos
 
 Redução de investimento em segmentos de baixo valor
 
-![clusters]('imagens/tabela_clusters.png')
+![clusters](imagens/tabela_clusters.png)
 ______________________________________________________________________________
 
 🧾 Conclusão
